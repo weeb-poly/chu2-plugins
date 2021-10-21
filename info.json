@@ -1,0 +1,9 @@
+{
+    "name": "chu2-plugins",
+    "short": "Custom Plugins for Chu2Bot (RedBot)",
+    "description": "Custom Plugins for Chu2Bot (RedBot)",
+    "install_msg": "Thank you for installing this repo",
+    "author": ["Weeb Poly"],
+    "requirements": [],
+    "tags": []
+}

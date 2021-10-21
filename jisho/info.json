@@ -1,0 +1,10 @@
+{
+    "name": "Jisho",
+    "short": "Plugin for jisho.org",
+    "description": "Plugin for jisho.org",
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+    "install_msg": "Thank you for installing the Jisho Cog",
+    "author": ["hummusw#4214", "tcyrus#2020"],
+    "tags": ["Translation", "Japanese", "Utility"],
+    "min_bot_version": "3.3.10"
+}
