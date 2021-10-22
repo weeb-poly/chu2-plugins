@@ -24,8 +24,8 @@ JISHO_COG_ID = 3245301569410685578 # Random 64 bit number
 JISHO_API_SEARCH = "http://jisho.org/api/v1/search/words"
 
 
-__EMBED_COLOR_JISHO = 0x3edd00
-__EMBED_THUMBNAIL_JISHO = 'https://assets.jisho.org/assets/touch-icon-017b99ca4bfd11363a97f66cc4c00b1667613a05e38d08d858aa5e2a35dce055.png'
+EMBED_COLOR_JISHO = 0x3edd00
+EMBED_THUMBNAIL_JISHO = 'https://assets.jisho.org/assets/touch-icon-017b99ca4bfd11363a97f66cc4c00b1667613a05e38d08d858aa5e2a35dce055.png'
 
 
 class JishoCog(commands.Cog):    
@@ -77,11 +77,11 @@ class JishoCog(commands.Cog):
             title = 'jisho.org search results for {query}'.format(query=query),
             description = '*Sorry, no results were found*',
             url = 'https://jisho.org/search/{query}'.format(query=urlquote(query, safe="")),
-            color = __EMBED_COLOR_JISHO
+            color = EMBED_COLOR_JISHO
         ).set_footer(
             text = 'Use the reacts for more actions\nPowered by jisho.org\'s beta API'
         ).set_thumbnail(
-            url = __EMBED_THUMBNAIL_JISHO
+            url = EMBED_THUMBNAIL_JISHO
         )
 
         embed = None
