@@ -48,7 +48,7 @@ class JishoCog(commands.Cog):
     async def red_delete_data_for_user(self, *, requester: RequestType, user_id: int) -> None:
         super().red_delete_data_for_user(requester=requester, user_id=user_id)
 
-    def _command_search_pages(self, query: str, results: list) -> list:
+    async def _command_search_pages(self, query: str, results: list) -> list:
         """
         Builds a search results embed from a response json
         :param query: query for jisho.org search
@@ -122,7 +122,7 @@ class JishoCog(commands.Cog):
         async with self.session.get(JISHO_API_SEARCH, params={"keyword": query}) as r:
             results = (await r.json()).get('data', [])
 
-        pages = self._command_search_pages(query, results)
+        pages = await self._command_search_pages(query, results)
 
         await menus.menu(ctx, pages, menus.DEFAULT_CONTROLS)
 
@@ -136,7 +136,7 @@ class JishoCog(commands.Cog):
         async with self.session.get(JISHO_API_SEARCH, params={"keyword": query}) as r:
             results = (await r.json()).get('data', [])
 
-        pages = self._command_search_pages(query, results)
+        pages = await self._command_search_pages(query, results)
 
         await menus.menu(ctx, pages, menus.DEFAULT_CONTROLS, page=idx)
 
