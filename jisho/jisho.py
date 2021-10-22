@@ -92,7 +92,7 @@ class JishoCog(commands.Cog):
                     pages.append(embed)
 
                 embed = default_embed.copy()
-                end_at = min(start_from + results_per_page, len(results))
+                end_at = min(idx + results_per_page, len(results))
                 embed.description = '*Showing results {start} to {end} (out of {total})*'.format(start=idx+1, end=end_at, total=len(results))
 
             emoji = ReactionPredicate.NUMBER_EMOJIS[idx % results_per_page + 1]
