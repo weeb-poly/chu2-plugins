@@ -1,0 +1,16 @@
+{
+    "name": "Wani",
+    "short": "Plugin for wanikani.com",
+    "discription": "Plugin for wanikani.com",
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+    "install_msg": "Thankyou for installing the WaniKani Cog",
+    "author": [
+        "WaIIer#6284"
+    ],
+    "tags": [
+        "Translation",
+        "Japanese",
+        "Utility"
+    ],
+    "min_bot_version": "3.3.10"
+}
