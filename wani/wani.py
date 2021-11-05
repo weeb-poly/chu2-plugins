@@ -19,10 +19,6 @@ KANJI_COLOR = 0xF400A3
 VOCAB_COLOR = 0x9E00ED
 BURNED_COLOR = 0x4D4D4D
 
-status_ok = 200
-request_type = "GET"
-parser = "html.parser"
-
 
 def error_embed(title="", description="") -> discord.Embed:
     return discord.Embed(
