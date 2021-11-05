@@ -97,4 +97,4 @@ class WaniCog(commands.Cog):
             except:
                 embed = error_embed(f"{kanji} not found")
 
-        await ctx.send(content=embed)
+        await ctx.send(embed=embed)
