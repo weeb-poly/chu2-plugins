@@ -109,7 +109,7 @@ class WaniCog(commands.Cog):
     async def wani(self, ctx: commands.Context) -> None:
         pass
 
-    @wani.command(alias=["r"])
+    @wani.command(aliases=["r"])
     async def radical(self, ctx: commands.Context, *, radical: str) -> None:
         """
         Get information for `radical`
@@ -126,7 +126,7 @@ class WaniCog(commands.Cog):
                     ))
                 else:
                     embed = radical_embed(next(
-                        r for r in self.radicals if r["character"] == radical
+                        r for r in self.radicals if r["character"].lower() == radical.lower()
                     ))
             except Exception as e:
                 print(e)
