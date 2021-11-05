@@ -32,11 +32,13 @@ def error_embed(title="", description="") -> discord.Embed:
 
 
 def radical_embed(radical_entry: dict) -> discord.Embed:
-    character = radical_entry["character"]
-    name = radical_entry["name"]
+    character: str = radical_entry["character"]
+    name: str = radical_entry["name"]
+    level: int = radical_entry["level"]
 
     return discord.Embed(
         title=f"Radical: {character} | {name}",
+        description=f"Level: {level}",
         color=RADICAL_COLOR
     )
 
@@ -122,11 +124,11 @@ class WaniCog(commands.Cog):
             try:
                 if len(radical) > 1:
                     embed = radical_embed(next(
-                        r for r in self.radicals if r["name"] == radical
+                        r for r in self.radicals if r["name"].lower() == radical.lower()
                     ))
                 else:
                     embed = radical_embed(next(
-                        r for r in self.radicals if r["character"].lower() == radical.lower()
+                        r for r in self.radicals if r["character"] == radical
                     ))
             except Exception as e:
                 print(e)
