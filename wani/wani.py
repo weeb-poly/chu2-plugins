@@ -7,6 +7,7 @@ from redbot.core import commands
 from redbot.core.bot import Red
 from redbot.core.config import Config
 import json
+import os
 from os import path
 
 RequestType = Literal["discord_deleted_user", "owner", "user", "user_strict"]
@@ -52,6 +53,24 @@ def kanji_embed(kanji_entry: dict) -> discord.Embed:
     )
 
 
+def vocab_embed(vocab_entry: dict) -> discord.Embed:
+    vocab: str = vocab_entry["vocab"]
+    level: int = vocab_entry["level"]
+    reading: str = vocab_entry["reading"]
+    primary: str = vocab_entry["meaning"]["primary"]
+    alternatives: list[str] = vocab_entry["meaning"]["alternatives"]
+
+    return discord.Embed(
+        title=f"{vocab} | {reading}",
+        descripiton=(
+            f"""
+            Level: {level}
+            Primary: {primary}{f"{os.linesep}{', '.join(alternatives) if len(alternatives) > 0 else ''}"}
+            """
+        )
+    )
+
+
 class WaniCog(commands.Cog):
     def __init__(self, bot: Red) -> None:
         self.bot = Red
@@ -87,7 +106,7 @@ class WaniCog(commands.Cog):
         """
         embed: Optional[discord.Embed] = None
         if len(kanji) < 1:
-            embed = error_embed("Invalid query", "No query provieded")
+            embed = error_embed("Invalid query", "No kanji provieded")
         else:
             if len(kanji) > 1:
                 kanji = kanji[0]
@@ -97,5 +116,23 @@ class WaniCog(commands.Cog):
             except Exception as e:
                 print(e)
                 embed = error_embed(f"{kanji} not found")
+
+        await ctx.send(embed=embed)
+
+    async def vocab(self, ctx: commands.Context, *, vocab: str) -> None:
+        """
+        Get information for `kanji`
+        """
+        embed: Optional[discord.Embed] = None
+        if len(vocab) == 0:
+            embed = error_embed("Invalid query", "No vocab provided")
+        else:
+            try:
+                embed = vocab_embed(next(
+                    v for v in self.vocab if v["vocab"] == vocab
+                ))
+            except Exception as e:
+                print(e)
+                embed = error_embed(f"{vocab} not found")
 
         await ctx.send(embed=embed)
