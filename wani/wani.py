@@ -33,9 +33,9 @@ def error_embed(title="", description="") -> discord.Embed:
 def kanji_embed(kanji_entry: dict) -> discord.Embed:
     character: str = kanji_entry["character"]
     primary: str = kanji_entry["name"]
-    alternatives: list[str] = kanji_entry["alternatives"]
-    onyomi: list[str] = kanji_entry["onyomi"]
-    kunyomi: list[str] = kanji_entry["kunyomi"]
+    alternatives: list[str] = kanji_entry["meaning"]["alternatives"]
+    onyomi: list[str] = kanji_entry["readings"]["onyomi"]
+    kunyomi: list[str] = kanji_entry["readings"]["kunyomi"]
     level: int = kanji_entry["level"]
 
     return discord.Embed(
@@ -94,7 +94,8 @@ class WaniCog(commands.Cog):
             try:
                 embed = kanji_embed(next(
                     k for k in self.kanji if k["character"] == kanji))
-            except:
+            except Exception as e:
+                print(e)
                 embed = error_embed(f"{kanji} not found")
 
         await ctx.send(embed=embed)
