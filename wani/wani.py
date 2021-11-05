@@ -62,7 +62,7 @@ def vocab_embed(vocab_entry: dict) -> discord.Embed:
 
     return discord.Embed(
         title=f"Vocab: {vocab} | {reading}",
-        descripiton=(
+        description=(
             f"""
             Level: {level}
             Primary: {primary}{f"{os.linesep}{', '.join(alternatives) if len(alternatives) > 0 else ''}"}
