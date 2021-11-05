@@ -94,11 +94,11 @@ class WaniCog(commands.Cog):
     async def red_delete_data_for_user(self, *, requester: RequestType, user_id: int) -> None:
         super().red_delete_data_for_user(requester=requester, user_id=user_id)
 
-    @ commands.group()
+    @commands.group()
     async def wani(self, ctx: commands.Context) -> None:
         pass
 
-    @ wani.command(aliases=["k"])
+    @wani.command(aliases=["k"])
     async def kanji(self, ctx: commands.Context, *, kanji: str) -> None:
         """
         Get information for `kanji`
@@ -119,6 +119,7 @@ class WaniCog(commands.Cog):
 
         await ctx.send(embed=embed)
 
+    @wani.command(aliases=["v"])
     async def vocab(self, ctx: commands.Context, *, vocab: str) -> None:
         """
         Get information for `kanji`
