@@ -113,18 +113,21 @@ class WaniCog(commands.Cog):
     async def radical(self, ctx: commands.Context, *, radical: str) -> None:
         """
         Get information for `radical`
-        Will only  get info for the first character
+        Search by radical if query length is 1, else search by name
         """
         embed: Optional[discord.Embed] = None
         if len(radical) < 1:
             embed = error_embed("Invalid query", "No radical provided")
         else:
-            if len(radical) > 1:
-                radical = radical[0]
             try:
-                embed = radical_embed(next(
-                    r for r in self.radicals if r["character"] == r
-                ))
+                if len(radical) > 1:
+                    embed = radical_embed(next(
+                        r for r in self.radicals if r["name"] == radical
+                    ))
+                else:
+                    embed = radical_embed(next(
+                        r for r in self.radicals if r["character"] == radical
+                    ))
             except Exception as e:
                 print(e)
                 embed = error_embed(f"{radical} not found")
