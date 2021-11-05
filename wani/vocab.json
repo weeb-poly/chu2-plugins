@@ -1,0 +1,1153 @@
+[
+    {
+        "level": "1",
+        "vocab": "大人",
+        "reading": {
+            "reading": "おとな",
+            "explanation": "\"I'm an adult, which means I have adult responsibilities. Oh, Toner (おとな)? I need some of that for my terrible printer...\" ... now feel so sad you have such a terrible printer that runs out of toner every day. Ohhhh Toner!"
+        },
+        "meaning": {
+            "primary": "Adult",
+            "alternatives": [
+                "Mature"
+            ],
+            "explanation": "This kanji combines big and person. If you're a child, how do you think of adults? You just think of them like big people. That's why this combination of kanji means adult, and when used like an adjective, it means mature."
+        },
+        "context_sentences": [
+            {
+                "jp": "これは、大人のりょうきんです。",
+                "eng": "This is the adult price."
+            },
+            {
+                "jp": "大人は三人だけです。",
+                "eng": "There are only three adults."
+            },
+            {
+                "jp": "大人たちはいざかやにいった。",
+                "eng": "The adults went to an izakaya."
+            }
+        ],
+        "kanji_composition": [
+            "大",
+            "人"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "一人",
+        "reading": {
+            "reading": "ひとり",
+            "explanation": "The reading for this vocab doesn't follow any rules you learned previously. It's an exception, which means you have to learn the reading separately too. Spend a few moments trying to remember this word, look away for 10 seconds, and then try to recall its reading. Could you do it? Try again, this time in thirty seconds. Did you do it again? Okay, go ahead and move on. You may know it now, though you'll need to recall it again in the next 5-10 minutes if you want to remember it for good.Alternatively, if you know the reading for the vocab word 一つ (in the same level as this word), you can know that it uses the same reading!"
+        },
+        "meaning": {
+            "primary": "Alone",
+            "alternatives": [
+                "One Person"
+            ],
+            "explanation": "When there's one person, what are they? Well, they're either just going to be simply one person or alone."
+        },
+        "context_sentences": [
+            {
+                "jp": "一人でカラオケにいきました。",
+                "eng": "I went to karaoke alone."
+            },
+            {
+                "jp": "一人はアメリカ人です。",
+                "eng": "One of them is American."
+            },
+            {
+                "jp": "むすめは、きょうはじめて一人でおつかいにいきました。",
+                "eng": "My daughter did the errands by herself for the first time today."
+            }
+        ],
+        "kanji_composition": [
+            "一",
+            "人"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "人工",
+        "reading": {
+            "reading": "じんこう",
+            "explanation": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own."
+        },
+        "meaning": {
+            "primary": "Artificial",
+            "alternatives": [
+                "Man Made, Human Made"
+            ],
+            "explanation": "A person of industry makes a lot of things by hand, so everything they make is artificial, and also means it's man made."
+        },
+        "context_sentences": [
+            {
+                "jp": "あなたののうは、ほんとうに人工ののうなんですか？",
+                "eng": "Is your brain really artificial?"
+            },
+            {
+                "jp": "この川は、人工の川です。",
+                "eng": "This river is man-made."
+            },
+            {
+                "jp": "にわに人工しばをしいてみました。",
+                "eng": "I put artificial turf in the garden."
+            }
+        ],
+        "kanji_composition": [
+            "人",
+            "工"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "大きい",
+        "reading": {
+            "reading": "おおきい",
+            "explanation": "What do you do when you see something really, really big? You say おお because you can't believe your eyes. Imagine something really large and say おお out loud to help seal the memory in that brain of yours."
+        },
+        "meaning": {
+            "primary": "Big",
+            "alternatives": [
+                "Large"
+            ],
+            "explanation": "This is the adjective form of big. It has the same meaning, though it is a word for describing. Words that end with い are often adjectives, remember that for future words as well. So, as long as you know the meaning of this kanji, you can transfer that to the meaning of this word. It's the adjective big, or large."
+        },
+        "context_sentences": [
+            {
+                "jp": "このぼうしは大きすぎます。",
+                "eng": "This hat is too big."
+            },
+            {
+                "jp": "その大きいももを二つください。",
+                "eng": "Can I get those two big peaches?"
+            },
+            {
+                "jp": "わたしのあかちゃんは、こうしとおなじくらい大きい。",
+                "eng": "My baby is about as big as a calf."
+            }
+        ],
+        "kanji_composition": [
+            "大"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "下",
+        "reading": {
+            "reading": "した",
+            "explanation": "When a vocab is a single kanji and is alone it tends to use the kun'yomi reading. You learned the on'yomi reading for this kanji, so now it's time to learn the kun'yomi reading to learn this vocabulary word.What's below you? What's below your foot? Oh no. The worst thing possible: It's した."
+        },
+        "meaning": {
+            "primary": "Down",
+            "alternatives": [
+                "Below, Under, Beneath"
+            ],
+            "explanation": "When a vocab is a single kanji with no okurigana (that's hiragana attached to the kanji) it tends to steal the meaning of the kanji it comes from. So, this one is below or down."
+        },
+        "context_sentences": [
+            {
+                "jp": "つくえの下にはなにがありますか。 ",
+                "eng": "What’s under the desk?"
+            },
+            {
+                "jp": "下に下りてきてください。",
+                "eng": "Please come down."
+            },
+            {
+                "jp": "ぼくはトーフグオフィスの下のかいにすんでいる。",
+                "eng": "I live on the floor below the Tofugu office."
+            }
+        ],
+        "kanji_composition": [
+            "下"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "八",
+        "reading": {
+            "reading": "はち",
+            "explanation": "When a vocab is a single kanji and all alone like this, it's usually going to use the kun'yomi. But, because this is a number (exception) it uses the on'yomi instead, meaning you already know the reading from when you learned the kanji!"
+        },
+        "meaning": {
+            "primary": "Eight",
+            "alternatives": [],
+            "explanation": "When a vocab is a single kanji it usually steals its meaning from its kanji as well. Same goes for this vocab word. It means eight."
+        },
+        "context_sentences": [
+            {
+                "jp": "がくせいは、きょううちで、八ページをべんきょうします。",
+                "eng": "Students will study page eight at home today."
+            },
+            {
+                "jp": "あめを八こカバンに入れました。",
+                "eng": "I put eight candies in my purse."
+            },
+            {
+                "jp": "八じ？ほんとうに、八じ？",
+                "eng": "Eight o’clock? Are you sure it’s eight o’clock?"
+            }
+        ],
+        "kanji_composition": [
+            "八"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "八つ",
+        "reading": {
+            "reading": "やっつ",
+            "explanation": "Since all of the \"number of things\" words all follow the same pattern (number plus つ), you really just have to remember the part before the つ (and then remember that the つ is in all of these). All of the readings are the kun'yomi reading, which means we'll have to use a mnemonic to remember them (you know the on'yomi reading of the kanji portion).So what eight things do you have? You have eight yachts (やっつ). Go ahead and count them. They're beautiful. Also, be sure not to be confused by this particular reading mnemonic. It includes the つ, even though the つ is outside the reading you need to learn (just makes things easier for you overall). Since you can see the つ outside, it shouldn't be too difficult for you."
+        },
+        "meaning": {
+            "primary": "Eight Things",
+            "alternatives": [],
+            "explanation": "This word follows the \"number of things\" pattern where there's a kanji for a number plus つ on the end. Whenever you see this, you know the word means \"____ things.\" Knowing that, as long as you know the kanji (which you do) you can figure out what number of things it is. For this one, it's the kanji for eight plus つ. So, this one is eight things."
+        },
+        "context_sentences": [
+            {
+                "jp": "ふくろには、じゃがいもが八つ入っています。",
+                "eng": "There are eight potatoes in a bag."
+            },
+            {
+                "jp": "八つしかありませんよ。",
+                "eng": "There are only eight of them."
+            },
+            {
+                "jp": "八つのかおと六つのうでがあるもの、なーんだ。",
+                "eng": "What has eight faces and six arms?"
+            }
+        ],
+        "kanji_composition": [
+            "八"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "入り口",
+        "reading": {
+            "reading": "いりぐち",
+            "explanation": "This word is really two separate words put together to form one, so let's look at it in two parts:The kanji 入 has り attached to it as okurigana (hiragana that comes after a kanji), so you can bet that 入り will use a kun'yomi reading for the kanji. You haven't learned this reading yet, so here's a mnemonic to help you:The entrance you're going through is really eerie (いり). It has cobwebs and creepy figures carved into it, and it just gives you a really eerie feeling.Since 入り uses the kun'yomi, you can guess that 口 will follow suit. You learned this reading with the vocabulary, but the く in くち changes to ぐ due to something called rendaku. Think of it as an eerie entrance into the Gucci (ぐち) store."
+        },
+        "meaning": {
+            "primary": "Entrance",
+            "alternatives": [],
+            "explanation": "A mouth that you enter is an entrance."
+        },
+        "context_sentences": [
+            {
+                "jp": "入り口のところでまっています。",
+                "eng": "I will wait for you at the entrance."
+            },
+            {
+                "jp": "入り口が三つあります。",
+                "eng": "There are three entrances."
+            },
+            {
+                "jp": "入り口にジョニーデップがいるよ。",
+                "eng": "Johnny Depp is at the entrance."
+            }
+        ],
+        "kanji_composition": [
+            "入",
+            "口"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "大した",
+        "reading": {
+            "reading": "たいした",
+            "explanation": "The reading for the 大 part is actually the on'yomi reading you learned when learning its kanji. So, as long as you remember that (and remember to use that reading), you can read this word as well. 大した = たいした."
+        },
+        "meaning": {
+            "primary": "Great",
+            "alternatives": [
+                "Considerable, Important, Big Deal"
+            ],
+            "explanation": "した is the past tense form of する (which means \"to do\"). So, essentially this word is \"did big.\" What is something that \"did big\"? It's something that's great or considerable."
+        },
+        "context_sentences": [
+            {
+                "jp": "それは大したことはない。",
+                "eng": "It’s not a big deal."
+            },
+            {
+                "jp": "まったく大した女だよ。",
+                "eng": "She is such a great woman."
+            },
+            {
+                "jp": "マクドナルドのしゃちょうになれれば大したものだ。",
+                "eng": "Being the president of McDonald’s would be a big deal."
+            }
+        ],
+        "kanji_composition": [
+            "大"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "山",
+        "reading": {
+            "reading": "やま",
+            "explanation": "When a vocab is a single kanji all alone with no okurigana (hiragana attached to the kanji) it's usually going to be the kun'yomi reading, which you didn't learn when you learned the kanji. To remember this word's reading we'll use a mnemonic.What are you doing going up into the mountains? You're hunting for yams (やま). Go ahead, imagine yourself doing just that, climbing up the mountain (it's hard work!) and then digging in the ground with your hands, then pulling up that sweet, delicious yam! Mmm!"
+        },
+        "meaning": {
+            "primary": "Mountain",
+            "alternatives": [],
+            "explanation": "A vocab made of a single kanji all alone with no okurigana (hiragana attached to the kanji) usually has the same exact meaning as the kanji it's made from. So by that you know that this vocab's meaning is mountain."
+        },
+        "context_sentences": [
+            {
+                "jp": "ともだちといっしょに、山にのぼります。",
+                "eng": "I'll climb a mountain with my friends."
+            },
+            {
+                "jp": "これはせかい一大きい人工の山なんですよ。",
+                "eng": "This is the world's biggest man-made mountain."
+            },
+            {
+                "jp": "あさ八じに、はだかではげ山にしゅうごうしましょう。",
+                "eng": "At 8 am, let’s meet naked on Bald Mountain."
+            }
+        ],
+        "kanji_composition": [
+            "山"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "口",
+        "reading": {
+            "reading": "くち",
+            "explanation": "When a vocab is made up of a single kanji with no okurigana (hiragana attached to the kanji) it's generally going to use the kun'yomi reading, which you did not learn from learning the kanji. To remember this word, you should use a mnemonic. With your mouth, make a \"kuchi kuchi kou\" (くち) sound. Go ahead, make it. Focus on your mouth and try to imagine each shape it makes while zooming in on it. You're talking to a baby, which is why you're making all these ridiculous noises. Also, instead of \"coo\" at the end, you're saying \"kou,\" because that's the reading of the kanji (こう).くちくちこう！くちくちこう！ Sounds like something from Arrested Development, actually."
+        },
+        "meaning": {
+            "primary": "Mouth",
+            "alternatives": [],
+            "explanation": "When a vocab is made up of a single kanji with no okurigana (hiragana attached to the kanji) it's generally going to have the same meaning as the kanji it came from. From that, you know this word's meaning is mouth."
+        },
+        "context_sentences": [
+            {
+                "jp": "口にソースがついていますよ。",
+                "eng": "There is some sauce on your mouth."
+            },
+            {
+                "jp": "これを口に入れてください。",
+                "eng": "Please put this in your mouth."
+            },
+            {
+                "jp": "きのうから口がとじられない。",
+                "eng": "I haven’t been able to close my mouth since yesterday."
+            }
+        ],
+        "kanji_composition": [
+            "口"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "ふじ山",
+        "reading": {
+            "reading": "ふじさん",
+            "explanation": "Normally ふじ would be in kanji, but I wanted you to see this kanji use in action since it's more useful than just being used on Mount Fuji. This is treated like a jukugo word (combo kanji word). In the case of jukugo, usually the on'yomi reading is used, meaning you just have to remember the on'yomi reading of 山. Luckily, you learned this when you were learning the kanji, so you should already know it!"
+        },
+        "meaning": {
+            "primary": "Mt Fuji",
+            "alternatives": [
+                "Mount Fuji, Mt. Fuji"
+            ],
+            "explanation": "Just look at this word. What do you think it means? That's right - it's a name (Fuji) plus the kanji for mountain. Put those together, and you have Mount Fuji. In English the \"Mount(ain)\" part comes first. In Japanese, it comes at the end, sort of like the name ender さん, ちゃん, and so on. You can add 山 to the end of any mountain's name too, not just Mount Fuji."
+        },
+        "context_sentences": [
+            {
+                "jp": "ふじ山に、ごぜん十一じごろまでにつきたいです。",
+                "eng": "I want to arrive at Mt. Fuji by around 11 a.m."
+            },
+            {
+                "jp": "ふじ山にはいつも大人のフランス人が三人とちいさいアメリカ人が二人とカナダ人が一人います。",
+                "eng": "There are always three adult French people, two small Americans, and one Canadian on Mt. Fuji."
+            },
+            {
+                "jp": "ふじ山はしろいとりのふんでおおわれていた。",
+                "eng": "Mt. Fuji was covered in white bird poop."
+            }
+        ],
+        "kanji_composition": [
+            "山"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "九",
+        "reading": {
+            "reading": "きゅう",
+            "explanation": "When a vocab is made up of a single kanji with no okurigana (hiragana attached to the kanji), it usually uses the kun'yomi reading. Numbers are the exception, as you might already know. When they're alone with no okurigana they're the on'yomi reading, which you should already know from learning the kanji that makes up this word."
+        },
+        "meaning": {
+            "primary": "Nine",
+            "alternatives": [],
+            "explanation": "When a vocab is made up of a single kanji with no okurigana (hiragana attached to the kanji), it often has the same meaning as the kanji it's based off of. Same goes for the word 九, as well. It has the same meaning as its kanji counterpart."
+        },
+        "context_sentences": [
+            {
+                "jp": "まいにち九じかんぐらいべんきょうします。",
+                "eng": "I study for about nine hours every day."
+            },
+            {
+                "jp": "九ページをひらいてください。",
+                "eng": "Please open to page 9."
+            },
+            {
+                "jp": "九羽の九官鳥をかっていました。",
+                "eng": "I used to have nine mynah birds."
+            }
+        ],
+        "kanji_composition": [
+            "九"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "九つ",
+        "reading": {
+            "reading": "ここのつ",
+            "explanation": "Since all of the \"number of things\" words all follow the same pattern (number plus つ), you really just have to remember the part before the つ (and then remember that the つ is in all of these). All of the readings are the kun'yomi reading, which means we'll have to use a mnemonic to remember them (you know the on'yomi reading of the kanji portion).What thing do you have nine of? The nine things that you have are nine coconuts (ここの). Imagine yourself juggling nine coconuts in the air. Try counting them while you're doing this, arriving at nine things."
+        },
+        "meaning": {
+            "primary": "Nine Things",
+            "alternatives": [],
+            "explanation": "This word follows the \"number of things\" pattern where there's a kanji for a number plus つ on the end. Whenever you see this, you know the word means \"____ things.\" Knowing that, as long as you know the kanji (which you do) you can figure out what number of things it is. For this one, it's the kanji for nine plus つ. So, this one is nine things."
+        },
+        "context_sentences": [
+            {
+                "jp": "きょうのテストには、じしょをつかうもんだいが九つあります。",
+                "eng": "There are nine questions that require a dictionary on today’s test."
+            },
+            {
+                "jp": "ねこには九つのいのちがあるってほんとう？",
+                "eng": "Is it true that a cat has nine lives?"
+            },
+            {
+                "jp": "ドーナツを九つつくった。",
+                "eng": "I made nine donuts."
+            }
+        ],
+        "kanji_composition": [
+            "九"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "一",
+        "reading": {
+            "reading": "いち",
+            "explanation": "When a vocab word is all alone and has no okurigana (hiragana attached to kanji) connected to it, it usually uses the kun'yomi reading. Numbers are an exception, however. When a number is all alone, with no kanji or okurigana, it is going to be the on'yomi reading, which you learned with the kanji.  Just remember this exception for alone numbers and you'll be able to read future number-related vocab to come."
+        },
+        "meaning": {
+            "primary": "One",
+            "alternatives": [],
+            "explanation": "As is the case with most vocab words that consist of a single kanji, this vocab word has the same meaning as the kanji it parallels, which is one."
+        },
+        "context_sentences": [
+            {
+                "jp": "一ど、あいましょう。",
+                "eng": "Let’s meet up once."
+            },
+            {
+                "jp": "一いはアメリカ人でした。",
+                "eng": "First place was an American."
+            },
+            {
+                "jp": "ぼくはせかいで一ばんよわい。",
+                "eng": "I’m the weakest (person) in the world."
+            }
+        ],
+        "kanji_composition": [
+            "一"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "一つ",
+        "reading": {
+            "reading": "ひとつ",
+            "explanation": "Since all of the \"number of things\" words all follow the same pattern (number plus つ), you really just have to remember the part before the つ (and then remember that the つ is in all of these). All of the readings are the kun'yomi reading, which means we'll have to use a mnemonic to remember them (you know the on'yomi reading of the kanji portion).So, you have one thing. What one thing do you have? You have one of He-Man's Toes, aka a single He-Toe (ひと). So what's the thing you have only one of? You have one He-Toe. Imagine He-Man walking around with one missing toe, trying to find you so he can get it back. At least you'll be able to run faster than him now."
+        },
+        "meaning": {
+            "primary": "One Thing",
+            "alternatives": [],
+            "explanation": "This word follows the \"number of things\" pattern where there's a kanji for a number plus つ on the end. Whenever you see this, you know the word means \"____ things.\" Knowing that, as long as you know the kanji (which you do) you can figure out what number of things it is. For this one, it's the kanji for one plus つ. So, this one is one thing."
+        },
+        "context_sentences": [
+            {
+                "jp": "こたえを一つえらびます。",
+                "eng": "Choose one answer."
+            },
+            {
+                "jp": "お一人さま一つかぎりです。",
+                "eng": "It's limited to one per customer."
+            },
+            {
+                "jp": "きのう、一つめこぞうにあった。",
+                "eng": "I met a one-eyed goblin yesterday."
+            }
+        ],
+        "kanji_composition": [
+            "一"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "人",
+        "reading": {
+            "reading": "ひと",
+            "explanation": "When a vocab is a single kanji with no okurigana (hiragana attached to the kanji), it usually uses the kun'yomi reading. Since you don't know the kun'yomi reading for this kanji yet, let's use a mnemonic to learn it.What does a person hate more than anything? They hate extreme heat (ひと). You can always put on more clothes to stay warm, but when the heat gets too high, you can only take off so much."
+        },
+        "meaning": {
+            "primary": "Person",
+            "alternatives": [],
+            "explanation": "When a vocab is a single kanji all alone, it usually has the same meaning as its kanji parent. That goes for this vocab word as well. Person is person."
+        },
+        "context_sentences": [
+            {
+                "jp": "やじるしの人はなんといいますか。",
+                "eng": "What will the person the arrow is pointing at say?"
+            },
+            {
+                "jp": "あの人は何人ですか？",
+                "eng": "What is that person's nationality?"
+            },
+            {
+                "jp": "人びとは、かれをばかな人だという。",
+                "eng": "People say he's a stupid person."
+            }
+        ],
+        "kanji_composition": [
+            "人"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "下さい",
+        "reading": {
+            "reading": "ください",
+            "explanation": "The reading for this word is an exceptional reading. You just have to be able to recall the くだ part, though (since さい is already there in the form of the hiragana). So, think about why you have to be polite to this misbehaving kid. Turns out, if you don't, he has the power to initiate a Coup d'état against you and your family, who runs the government. Just imagine yourself thinking over and over \"Okay... I have to be nice to this kid. If I don't... he'll initiate a Coup d'état... and that would ruin my family...\" You're walking on thin ice, here."
+        },
+        "meaning": {
+            "primary": "Please Give Me",
+            "alternatives": [
+                "Please"
+            ],
+            "explanation": "You know that the kanji 下 means down and that さい sounds like the word \"sigh.\" You need to ask someone for something, so you look down, sigh, and say please give me that thing. You're ashamed that you have to ask. But you still need it. Please, please give it to me!We only use this kanji version of ください when we're asking for something, that's why it's \"please give me.\" If you're just saying \"please\" you don't need the kanji at all!"
+        },
+        "context_sentences": [
+            {
+                "jp": "それを下さい。",
+                "eng": "Please give me that one."
+            },
+            {
+                "jp": "りんごを二こ下さい。",
+                "eng": "Please give me two apples."
+            },
+            {
+                "jp": "ぼくに百万円を下さい。",
+                "eng": "Please give me a million yen."
+            }
+        ],
+        "kanji_composition": [
+            "下"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "人口",
+        "reading": {
+            "reading": "じんこう",
+            "explanation": "Both kanji in this jukugo (combo kanji) use the on'yomi readings that you've already learned! So just make sure you know those and you'll be able to read this too."
+        },
+        "meaning": {
+            "primary": "Population",
+            "alternatives": [],
+            "explanation": "The amount of people with mouths (that you have to feed) is the population that you have to feed."
+        },
+        "context_sentences": [
+            {
+                "jp": "人口のはんぶんはだんせいです。",
+                "eng": "Half the population is male."
+            },
+            {
+                "jp": "このむらの人口はたったの二十三にんです。",
+                "eng": "This village's population is only 23."
+            },
+            {
+                "jp": "じぶんのまちの人口をしらないにほんじんはおおい。",
+                "eng": "Many Japanese people don’t know the population of their own town."
+            }
+        ],
+        "kanji_composition": [
+            "人",
+            "口"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "力",
+        "reading": {
+            "reading": "ちから",
+            "explanation": "When a vocab word is a single kanji all alone with no okurigana (hiragana attached to the kanji), it usually uses the kun'yomi reading. You didn't learn the kun'yomi reading with the kanji, so for this vocab word, we'll use a mnemonic.The most powerful man in the world. All his power came from his cheek (ちから). Imagine him blowing up his cheek like a giant balloon, then unleashing his power on you. Thwap thwap thwap thwap."
+        },
+        "meaning": {
+            "primary": "Power",
+            "alternatives": [
+                "Strength, Ability"
+            ],
+            "explanation": "When a vocab word is made up of a single kanji and that's it, it almost always takes the meaning from its parent kanji. So, this vocab word also means power."
+        },
+        "context_sentences": [
+            {
+                "jp": "おなかがすいて、力がでない。",
+                "eng": "I’m hungry and losing strength."
+            },
+            {
+                "jp": "あのアメリカ人の女にはふじ山をうごかす力がある。",
+                "eng": "That American woman has the power to move Mt. Fuji."
+            },
+            {
+                "jp": "おかあさんは、のこりのかぞくがたばになってもかなわない力をもっている。",
+                "eng": "My mom is more powerful than the rest of my family put together."
+            }
+        ],
+        "kanji_composition": [
+            "力"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "川",
+        "reading": {
+            "reading": "かわ",
+            "explanation": "You're in luck - the reading you learned with the kanji is the same as the one you have to learn for this vocab!"
+        },
+        "meaning": {
+            "primary": "River",
+            "alternatives": [],
+            "explanation": "When a vocab is made up of a single kanji with no okurigana (hiragana attached to the kanji) it will usually take the same meaning as the kanji it comes from. So, from that you know that this word means river."
+        },
+        "context_sentences": [
+            {
+                "jp": "この川には、さかながたくさんおよいでいます。",
+                "eng": "There are a lot of fish swimming in this river."
+            },
+            {
+                "jp": "にほんいちながい川は、しなの川です。",
+                "eng": "Japan's longest river is Shinano River."
+            },
+            {
+                "jp": "川をみるといつもいかりがこみあげてくる。",
+                "eng": "Whenever I see a river, I get so pissed off."
+            }
+        ],
+        "kanji_composition": [
+            "川"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "七",
+        "reading": {
+            "reading": "なな",
+            "explanation": "Most single-kanji all-alone vocab words like this use the kun'yomi reading. Numbers are an exception to this rule. That being said, four and seven are exceptions to this exception to the rule (because the on'yomi readings sound too much like the word for \"death\"). You should learn both readings for this word, though we're going to go with なな for the main one here. You can remember that because you had seven nanas after you."
+        },
+        "meaning": {
+            "primary": "Seven",
+            "alternatives": [],
+            "explanation": "When a vocab is alone with no okurigana (that's hiragana attached to a kanji) it usually has the same meaning as the kanji too. That goes for this word as well. So, if you know the kanji's meaning (seven) you'll know the vocab's meaning (seven)."
+        },
+        "context_sentences": [
+            {
+                "jp": "あしたのあさ、七じにえきであいませんか。",
+                "eng": "Why don’t we meet at the station at seven tomorrow morning?"
+            },
+            {
+                "jp": "みかんが七こあります。",
+                "eng": "There are seven mandarin oranges."
+            },
+            {
+                "jp": "七にんのこびととともだちになりたい。",
+                "eng": "I want to be friends with the seven dwarves."
+            }
+        ],
+        "kanji_composition": [
+            "七"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "七つ",
+        "reading": {
+            "reading": "ななつ",
+            "explanation": "Since all of the \"number of things\" words all follow the same pattern (number plus つ), you really just have to remember the part before the つ (and then remember that the つ is in all of these). All of the readings are the kun'yomi reading, which means we'll have to use a mnemonic to remember them (you know the on'yomi reading of the kanji portion).What thing do you have seven of? The seven things that you have are seven Nanas (なな). These are your grandmas, cloned. Just think, \"It's lucky to have seven nanas. They can all cook my favorite foods for me!\""
+        },
+        "meaning": {
+            "primary": "Seven Things",
+            "alternatives": [],
+            "explanation": "This word follows the \"number of things\" pattern where there's a kanji for a number plus つ on the end. Whenever you see this, you know the word means \"____ things.\" Knowing that, as long as you know the kanji (which you do) you can figure out what number of things it is. For this one, it's the kanji for seven plus つ. So, this one is seven things."
+        },
+        "context_sentences": [
+            {
+                "jp": "はこのなかにりんごが七つあります。",
+                "eng": "There are seven apples in a box."
+            },
+            {
+                "jp": "二人でメロンを七つたべました。",
+                "eng": "Just the two of us ate seven melons."
+            },
+            {
+                "jp": "七つかぞえると、わたしは女になる。",
+                "eng": "After I count to seven, I will be a woman."
+            }
+        ],
+        "kanji_composition": [
+            "七"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "大きさ",
+        "reading": {
+            "reading": "おおきさ",
+            "explanation": "When a vocab has okurigana (hiragana attached to the kanji) it is probably going to be the kun'yomi reading. Since you learned the on'yomi reading with the kanji 大, we'll have to use a mnemonic to remember this word.When you saw the size of (pick something surprising), you said \"おお *#$@!\" Really imagine something surprising. Say the おお part out loud, as well. Think about the size of whatever you're looking at, too, and how big it is."
+        },
+        "meaning": {
+            "primary": "Size",
+            "alternatives": [],
+            "explanation": "Words that end with さ are often words that have taken the adjective form (in this case 大きい) of the word and turned into words that describe what the adjective form is doing, if that makes sense. So 大きい (big) goes to 大きさ, and the word that describes what \"big\" describes is the word size."
+        },
+        "context_sentences": [
+            {
+                "jp": "このテーブルの大きさは、よこ100センチ、たて120センチです。",
+                "eng": "The size of this table is 100cm in width and 120cm in length."
+            },
+            {
+                "jp": "テレビの大きさは三十二インチです。",
+                "eng": "The size of the TV is 32 inches."
+            },
+            {
+                "jp": "ロナルド・マクドナルドはいつも大きさのちがうくつをはいていた。",
+                "eng": "Ronald McDonald always wore different-sized shoes."
+            }
+        ],
+        "kanji_composition": [
+            "大"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "十",
+        "reading": {
+            "reading": "じゅう",
+            "explanation": "When a vocab is alone and consists of a single kanji like this, usually it uses the kun'yomi reading for the kanji. But, numbers are an exception and they use the on'yomi reading (which you learned when you learned the kanji). That means you know that this word's reading is じゅう already."
+        },
+        "meaning": {
+            "primary": "Ten",
+            "alternatives": [],
+            "explanation": "When a vocab is alone like this with no okurigana (hiragana attached to the kanji) it tends to steal its meaning from the kanji it came from. That means this vocab word also means ten."
+        },
+        "context_sentences": [
+            {
+                "jp": "わたしは、ツバメを十わかっています。",
+                "eng": "I have ten swallows."
+            },
+            {
+                "jp": "十までかぞえることができますよ。",
+                "eng": "I can count up to ten!"
+            },
+            {
+                "jp": "十ねんかん十にんのじゅうにんとくらした。",
+                "eng": "For ten years I lived with ten other people."
+            }
+        ],
+        "kanji_composition": [
+            "十"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "三",
+        "reading": {
+            "reading": "さん",
+            "explanation": "When a vocab is alone like this with no okurigana (hiragana attached to the kanji) it usually uses its kun'yomi reading. Numbers are an exception, though, and use the on'yomi reading. You learned the on'yomi reading when you learned this kanji, so you already know that the reading for this vocab is さん."
+        },
+        "meaning": {
+            "primary": "Three",
+            "alternatives": [],
+            "explanation": "When a vocab is a single kanji and alone like this, it usually steals its meaning from the parent kanji. That goes for this word too, making the meaning of this word three."
+        },
+        "context_sentences": [
+            {
+                "jp": "このもんだいようしは、ぜんぶで三ページあります。",
+                "eng": "There are three pages of these questions total."
+            },
+            {
+                "jp": "わたしは三十二さいです。",
+                "eng": "I’m 32 years old."
+            },
+            {
+                "jp": "三かいまわってワンとほえろ。",
+                "eng": "Turn around three times and bark!"
+            }
+        ],
+        "kanji_composition": [
+            "三"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "三人",
+        "reading": {
+            "reading": "さんにん",
+            "explanation": "This jukugo (combo kanji) word uses the on'yomi readings that you learned when you learned the kanji. That means you should know the reading as long as you know the kanji."
+        },
+        "meaning": {
+            "primary": "Three People",
+            "alternatives": [
+                "Three Persons"
+            ],
+            "explanation": "You have the kanji for three and person. Common sense will tell you what this word is. It's three people."
+        },
+        "context_sentences": [
+            {
+                "jp": "わたしには、きょうだいが三人います。",
+                "eng": "I have three siblings."
+            },
+            {
+                "jp": "その川には二、三人しかいませんでした。",
+                "eng": "There were only two or three people in the river."
+            },
+            {
+                "jp": "三人のうちで、だれがいちばんタイプ？",
+                "eng": "Out of those three people, which one is your type?"
+            }
+        ],
+        "kanji_composition": [
+            "三",
+            "人"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "三つ",
+        "reading": {
+            "reading": "みっつ",
+            "explanation": "Since all of the \"number of things\" words all follow the same pattern (number plus つ), you really just have to remember the part before the つ (and then remember that the つ is in all of these). All of the readings are the kun'yomi reading, which means we'll have to use a mnemonic to remember them (you know the on'yomi reading of the kanji portion).What thing do you have three of? The three things that you have are actually three versions of yourself. \"Who is the real one?\" you ask yourself. \"It's me!\" \"Wait, no, it's me!\" Just remember that there are three of you, and they're all saying \"me me me me me\" to try and prove that they're the real you."
+        },
+        "meaning": {
+            "primary": "Three Things",
+            "alternatives": [],
+            "explanation": "This word follows the \"number of things\" pattern where there's a kanji for a number plus つ on the end. Whenever you see this, you know the word means \"____ things.\" Knowing that, as long as you know the kanji (which you do) you can figure out what number of things it is. For this one, it's the kanji for three plus つ. So, this one is three things."
+        },
+        "context_sentences": [
+            {
+                "jp": "三つのせんたくしがおんせいできこえます。",
+                "eng": "You will hear three choices."
+            },
+            {
+                "jp": "ここにボールを三つ入れてください。",
+                "eng": "Please put three balls in here."
+            },
+            {
+                "jp": "三つもかにかまれた。",
+                "eng": "I got three mosquito bites."
+            }
+        ],
+        "kanji_composition": [
+            "三"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "入る",
+        "reading": {
+            "reading": "はいる",
+            "explanation": "When a vocab is a single kanji with okurigana, chances are it's going to be the kun'yomi reading, which you don't usually learn in the kanji (you usually learn the on'yomi reading). So, let's learn the kun'yomi reading for this word using its meaning.When you enter the room, what do you do? You say \"Hi\" (はい) to everyone to the point of absurdity. \"Hi there. Oh hi Frank. Oh hi there Susan. Oh hi there lamp.\""
+        },
+        "meaning": {
+            "primary": "To Enter",
+            "alternatives": [
+                "To Go In"
+            ],
+            "explanation": "This vocab word has okurigana, which is the hiragana part that comes after the kanji. When a vocab's okurigana makes an \"う/oo\" sound (in this case, we have a る), it's often going to be a verb. So in this case, the kanji 入 is enter. The vocab 入る is to enter. We're just taking the kanji and using it in a verb!"
+        },
+        "context_sentences": [
+            {
+                "jp": "プールに入るまえに、じゅんびうんどうをしてください。",
+                "eng": "Please stretch before getting in the pool."
+            },
+            {
+                "jp": "ちゃんと入り口から入ってください。",
+                "eng": "Please enter from the entrance."
+            },
+            {
+                "jp": "へやに入って、いっしょにまゆげをかこうよ！",
+                "eng": "Let’s go in the room and draw our eyebrows on!"
+            }
+        ],
+        "kanji_composition": [
+            "入"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "上げる",
+        "reading": {
+            "reading": "あげる",
+            "explanation": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to use the kun'yomi reading, which you didn't learn with the kanji. Here's a mnemonic to help you:You want to lift something, and that something is aardvark (あ) above your head. Why? Because even though aardvarks have long tongues, they can't reach the ants in the trees. But when you raise this aardvark it can get at those yummy ants!"
+        },
+        "meaning": {
+            "primary": "To Lift Something",
+            "alternatives": [
+                "To Raise Something"
+            ],
+            "explanation": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means above and this verb is related to that meaning. It means to lift something or to raise something. It's a transitive verb, meaning that you do something to something else. You raise something. Like your hands!"
+        },
+        "context_sentences": [
+            {
+                "jp": "このはこをれいぞうこの上に上げてください。",
+                "eng": "Please put this box on top of the refrigerator for me."
+            },
+            {
+                "jp": "三センチ上げてください。",
+                "eng": "Please lift it three centimeters."
+            },
+            {
+                "jp": "りょうてを上に上げて、大きくおならをした。",
+                "eng": "I raised my hands and let out a huge fart."
+            }
+        ],
+        "kanji_composition": [
+            "上"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "下げる",
+        "reading": {
+            "reading": "さげる",
+            "explanation": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading, which you didn't learn with the kanji. Here's a mnemonic to help you:You want to lower something. In this case, it's a tree, so you need a saw (さ). Lower the tree to the ground gently while you slowly saw it down!"
+        },
+        "meaning": {
+            "primary": "To Lower Something",
+            "alternatives": [
+                "To Hang Something"
+            ],
+            "explanation": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means below so the verb version of that is when you put something below you. It's to lower something. It can also mean to hang something, such as a lamp from the ceiling.This is a transitive verb, which means that the verb is done by one entity onto another. In other words, you lower something. Like your impossibly high expectations for yourself. Take it easy!"
+        },
+        "context_sentences": [
+            {
+                "jp": "けつあつを下げるほうほうをおしえてください。",
+                "eng": "Please tell me how to lower my blood pressure."
+            },
+            {
+                "jp": "あのみせは、入り口にふうりんを一つ下げています。",
+                "eng": "That shop has one wind chime hanging in its entrance."
+            },
+            {
+                "jp": "きおんを下げるために、あまごいダンスをおどってみた。",
+                "eng": "I tried performing a rain dance to lower the temperature."
+            }
+        ],
+        "kanji_composition": [
+            "下"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "二",
+        "reading": {
+            "reading": "に",
+            "explanation": "When a vocab word is a single kanji with no okurigana, it usually uses the kun'yomi reading. Numbers are an exception to this. Numbers use the on'yomi reading, which you've already learned by learning the kanji's reading! How nice!"
+        },
+        "meaning": {
+            "primary": "Two",
+            "alternatives": [],
+            "explanation": "When a vocab word is a single kanji without okurigana (hiragana attached to the kanji) it usually has the same meaning as the kanji it's spawned from. If you know the kanji meaning you'll also know the vocab meaning. It's two!"
+        },
+        "context_sentences": [
+            {
+                "jp": "二十一ページの二ばんはクラスでします。",
+                "eng": "We will work on question two on page twenty-one in class."
+            },
+            {
+                "jp": "わたしのこどもは二さいです。",
+                "eng": "My child is 2 years old."
+            },
+            {
+                "jp": "わたしのおじは、ねこを二ひきかっています。",
+                "eng": "My uncle has two cats."
+            }
+        ],
+        "kanji_composition": [
+            "二"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "二人",
+        "reading": {
+            "reading": "ふたり",
+            "explanation": "The reading for this word is quite strange. If you know 二つ's reading, you can use that to remember the 二 part (ふた). But, the り that is the 人 is a total exception, something you won't see too often (though you may have seen it in 一人). If you can use the reading of 一人 (aka if you've learned it already) then definitely use that. If not, do your best to remember the reading on your own. It's a strange one that doesn't connect to much else."
+        },
+        "meaning": {
+            "primary": "Two People",
+            "alternatives": [
+                "Pair, Couple, Two Persons"
+            ],
+            "explanation": "When you have two and person and then put them together, what do you get? You get a pair or two people."
+        },
+        "context_sentences": [
+            {
+                "jp": "DVDを、あねと二人でみています。",
+                "eng": "I am watching a DVD with my older sister."
+            },
+            {
+                "jp": "あの二人はいつも二人でくみたがる。",
+                "eng": "Those two want to be a couple all the time."
+            },
+            {
+                "jp": "かのじょは二人ごろしでたいほされた。",
+                "eng": "She was arrested for double murder."
+            }
+        ],
+        "kanji_composition": [
+            "二",
+            "人"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "二つ",
+        "reading": {
+            "reading": "ふたつ",
+            "explanation": "Since all of the \"number of things\" words all follow the same pattern (number plus つ), you really just have to remember the part before the つ (and then remember that the つ is in all of these). All of the readings are the kun'yomi reading, which means we'll have to use a mnemonic to remember them (you know the on'yomi reading of the kanji portion).So what thing do you have two of? The two things that you have consist of one foot and another foot (ふた). Remember from the on'yomi how you had two knees (for the reading に)? Now look further down your leg at one foot then over to the other foot. Two foot!"
+        },
+        "meaning": {
+            "primary": "Two Things",
+            "alternatives": [],
+            "explanation": "This word follows the \"number of things\" pattern where there's a kanji for a number plus つ on the end. Whenever you see this, you know the word means \"____ things.\" Knowing that, as long as you know the kanji (which you do) you can figure out what number of things it is. For this one, it's the kanji for two plus つ. So, this one is two things."
+        },
+        "context_sentences": [
+            {
+                "jp": "二つのかいわです。",
+                "eng": "It’s two dialogues."
+            },
+            {
+                "jp": "このカゴにリンゴを二つ入れてください。",
+                "eng": "Please put two apples in this basket."
+            },
+            {
+                "jp": "かれの二つめのあくぎょうは、かえるのあんさつだった。",
+                "eng": "His second evil deed was the frog’s assassination."
+            }
+        ],
+        "kanji_composition": [
+            "二"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "上",
+        "reading": {
+            "reading": "うえ",
+            "explanation": "When a vocab word is a single kanji and doesn't have okurigana (hiragana attached to the kanji) it usually will use the kun'yomi. Since you learned the on'yomi reading of the kanji, we'll need to use a mnemonic to learn the reading of this vocabulary word. Above you is a huge weight. You're holding it up and struggling (it's heavy!). You look up and try to crane your neck to see how much it weighs (うえ), but you can't see the numbers on the side of it. How long can you hold it above your head like this?"
+        },
+        "meaning": {
+            "primary": "Up",
+            "alternatives": [
+                "Above, Over"
+            ],
+            "explanation": "When a vocab word is a single kanji and alone, it tends to steal the meaning from the kanji. Same goes for this one too. It means above or up."
+        },
+        "context_sentences": [
+            {
+                "jp": "上のひょうをみてください。",
+                "eng": "Please look at the chart above."
+            },
+            {
+                "jp": "このフロアの三かい上にトーフグのオフィスがあります。",
+                "eng": "The Tofugu office is three floors up."
+            },
+            {
+                "jp": "くつ下のかたほうは、かいだんの上にあったわよ。",
+                "eng": "One of your socks was at the top of the stairs."
+            }
+        ],
+        "kanji_composition": [
+            "上"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "力いっぱい",
+        "reading": {
+            "reading": "ちからいっぱい",
+            "explanation": "力 uses the same reading as you learned with the vocabulary. That's because this is basically two separate words stuck together."
+        },
+        "meaning": {
+            "primary": "With All One's Strength",
+            "alternatives": [
+                "Full Power, As Hard As One Can"
+            ],
+            "explanation": "You've hopefully already learned that 力 means \"power\". You might have also heard the word いっぱい, because it's used a lot in conversation. It has a few meanings (you'll learn more of them later) but the important one here is \"full\" or \"a lot\". Put these two words together and you have full power, with all one’s strength, and as hard as one can. Remember this one with all your strength!Just a side note: いっぱい can also be written in kanji, which you'll learn later on! However, in simple words like this one it's usually written in kana."
+        },
+        "context_sentences": [
+            {
+                "jp": "力いっぱいがんばりました！",
+                "eng": "We did our best!"
+            },
+            {
+                "jp": "ドアを力いっぱいおしてください。",
+                "eng": "Please push on the door as hard as you can."
+            },
+            {
+                "jp": "リレーでは力いっぱいはしりました。",
+                "eng": "I ran as fast as I could in the relay."
+            }
+        ],
+        "kanji_composition": [
+            "力"
+        ]
+    },
+    {
+        "level": "1",
+        "vocab": "女",
+        "reading": {
+            "reading": "おんな",
+            "explanation": "When a word is a single kanji with no okurigana (hiragana attached to the kanji) it tends to use a kun'yomi reading. You didn't learn the kun'yomi reading when you learned the kanji itself, so let's use a mnemonic to remember the vocab word.There's a woman in front of you. Who is she? She's the woman who lives on Ninth (おんな) Street!"
+        },
+        "meaning": {
+            "primary": "Woman",
+            "alternatives": [
+                "Female"
+            ],
+            "explanation": "When a kanji is alone and doesn't have any okurigana (hiragana attached to the kanji) it's usually going to take the same meaning as the kanji it comes from. So in this case, you know that this word means woman."
+        },
+        "context_sentences": [
+            {
+                "jp": "あの女はだれ？",
+                "eng": "Who is that woman?"
+            },
+            {
+                "jp": "わたしは女です。",
+                "eng": "I'm a woman."
+            },
+            {
+                "jp": "おれはこどもをせわする女がほしい。",
+                "eng": "I want a woman who will help look after my children."
+            }
+        ],
+        "kanji_composition": [
+            "女"
+        ]
+    }
+]
