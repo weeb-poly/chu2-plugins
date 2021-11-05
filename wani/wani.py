@@ -128,7 +128,7 @@ class WaniCog(commands.Cog):
             except Exception as e:
                 print(e)
                 embed = error_embed(f"{radical} not found")
-            ctx.send(embed=embed)
+        await ctx.send(embed=embed)
 
     @wani.command(aliases=["k"])
     async def kanji(self, ctx: commands.Context, *, kanji: str) -> None:
