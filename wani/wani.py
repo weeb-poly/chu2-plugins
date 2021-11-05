@@ -77,7 +77,7 @@ class WaniCog(commands.Cog):
     async def wani(self, ctx: commands.Context) -> None:
         pass
 
-    @wani.command(aliases="k")
+    @wani.command(aliases=["k"])
     async def kanji(self, ctx: commands.Context, *, kanji: str) -> None:
         """
         Get information for `kanji`
