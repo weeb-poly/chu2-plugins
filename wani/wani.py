@@ -1,10 +1,7 @@
 from typing import Any, Optional, Literal, List
 import discord
 
-import urllib3
 import aiohttp
-import re
-import bs4
 from bs4 import BeautifulSoup
 
 from redbot.core import commands
