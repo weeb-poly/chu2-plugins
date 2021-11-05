@@ -92,8 +92,8 @@ class WaniCog(commands.Cog):
             if len(kanji) > 1:
                 kanji = kanji[0]
             try:
-                embed = kanji_embed(
-                    k for k in self.kanji if k["character"] == kanji)
+                embed = kanji_embed(next(
+                    k for k in self.kanji if k["character"] == kanji))
             except:
                 embed = error_embed(f"{kanji} not found")
 
