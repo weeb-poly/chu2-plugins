@@ -41,8 +41,6 @@ def kanji_embed(kanji_entry: dict) -> discord.Embed:
     kunyomi: list[str] = kanji_entry["kunyomi"]
     level: int = kanji_entry["level"]
 
-    descripiton =
-
     return discord.Embed(
         title=f"{character} | {primary}",
         description=(
