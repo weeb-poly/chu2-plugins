@@ -40,7 +40,7 @@ def kanji_embed(kanji_entry: dict) -> discord.Embed:
     level: int = kanji_entry["level"]
 
     return discord.Embed(
-        title=f"{character} | {primary}",
+        title=f"Kanji: {character} | {primary}",
         description=(
             f"""
             Level: {level}
@@ -56,18 +56,19 @@ def kanji_embed(kanji_entry: dict) -> discord.Embed:
 def vocab_embed(vocab_entry: dict) -> discord.Embed:
     vocab: str = vocab_entry["vocab"]
     level: int = vocab_entry["level"]
-    reading: str = vocab_entry["reading"]
+    reading: str = vocab_entry["reading"]["reading"]
     primary: str = vocab_entry["meaning"]["primary"]
     alternatives: list[str] = vocab_entry["meaning"]["alternatives"]
 
     return discord.Embed(
-        title=f"{vocab} | {reading}",
+        title=f"Vocab: {vocab} | {reading}",
         descripiton=(
             f"""
             Level: {level}
             Primary: {primary}{f"{os.linesep}{', '.join(alternatives) if len(alternatives) > 0 else ''}"}
             """
-        )
+        ),
+        color=VOCAB_COLOR
     )
 
 
