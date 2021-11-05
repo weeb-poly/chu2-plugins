@@ -31,6 +31,16 @@ def error_embed(title="", description="") -> discord.Embed:
         color=BURNED_COLOR)
 
 
+def radical_embed(radical_entry: dict) -> discord.Embed:
+    character = radical_entry["character"]
+    name = radical_entry["name"]
+
+    return discord.Embed(
+        title=f"Radical: {character} | {name}",
+        color=RADICAL_COLOR
+    )
+
+
 def kanji_embed(kanji_entry: dict) -> discord.Embed:
     character: str = kanji_entry["character"]
     primary: str = kanji_entry["name"]
@@ -99,15 +109,36 @@ class WaniCog(commands.Cog):
     async def wani(self, ctx: commands.Context) -> None:
         pass
 
+    @wani.command(alias=["r"])
+    async def radical(self, ctx: commands.Context, *, radical: str) -> None:
+        """
+        Get information for `radical`
+        Will only  get info for the first character
+        """
+        embed: Optional[discord.Embed] = None
+        if len(radical) < 1:
+            embed = error_embed("Invalid query", "No radical provided")
+        else:
+            if len(radical) > 1:
+                radical = radical[0]
+            try:
+                embed = radical_embed(next(
+                    r for r in self.radicals if r["character"] == r
+                ))
+            except Exception as e:
+                print(e)
+                embed = error_embed(f"{radical} not found")
+            ctx.send(embed=embed)
+
     @wani.command(aliases=["k"])
     async def kanji(self, ctx: commands.Context, *, kanji: str) -> None:
         """
         Get information for `kanji`
-        Will only get info for first character
+        Will only get info for the first character
         """
         embed: Optional[discord.Embed] = None
         if len(kanji) < 1:
-            embed = error_embed("Invalid query", "No kanji provieded")
+            embed = error_embed("Invalid query", "No kanji provided")
         else:
             if len(kanji) > 1:
                 kanji = kanji[0]
