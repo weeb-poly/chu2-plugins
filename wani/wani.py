@@ -7,6 +7,7 @@ from redbot.core import commands
 from redbot.core.bot import Red
 from redbot.core.config import Config
 import json
+from os import path
 
 RequestType = Literal["discord_deleted_user", "owner", "user", "user_strict"]
 
@@ -60,11 +61,12 @@ class WaniCog(commands.Cog):
             identifier=WANI_COG_ID,
             force_registration=True
         )
-        with open("radicals.json") as f:
+        cog_path = path.realpath(path.dirname(__file__))
+        with open(path.join(cog_path, "radicals.json")) as f:
             self.radicals = json.loads(f.read())
-        with open("kanji.json") as f:
+        with open(path.join(cog_path, "kanji.json")) as f:
             self.kanji = json.loads(f.read())
-        with open("vocab.json") as f:
+        with open(path.join(cog_path, "vocab.json")) as f:
             self.vocab = json.loads(f.read())
 
     def cofg_unload(self) -> None:
@@ -73,11 +75,11 @@ class WaniCog(commands.Cog):
     async def red_delete_data_for_user(self, *, requester: RequestType, user_id: int) -> None:
         super().red_delete_data_for_user(requester=requester, user_id=user_id)
 
-    @commands.group()
+    @ commands.group()
     async def wani(self, ctx: commands.Context) -> None:
         pass
 
-    @wani.command(aliases=["k"])
+    @ wani.command(aliases=["k"])
     async def kanji(self, ctx: commands.Context, *, kanji: str) -> None:
         """
         Get information for `kanji`
