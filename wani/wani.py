@@ -2,7 +2,6 @@ from typing import Any, Optional, Literal, List
 import discord
 
 import aiohttp
-from bs4 import BeautifulSoup
 
 from redbot.core import commands
 from redbot.core.bot import Red
