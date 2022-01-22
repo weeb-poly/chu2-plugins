@@ -51,8 +51,7 @@ def kanji_embed(kanji_entry: dict) -> discord.Embed:
         title=f"Kanji: {character} | {primary}",
         description=(
             f"""
-            Level: {level}
-            Alternative Meanings: {', '.join(alternatives)}
+            Level: {level}{f"{os.linesep}Alternative Meanings: {', '.join(alternatives)}" if len(alternatives) > 0 else ""}
             On’yomi: {', '.join(onyomi)}
             Kun’yomi: {', '.join(kunyomi)}
             """
@@ -73,7 +72,7 @@ def vocab_embed(vocab_entry: dict) -> discord.Embed:
         description=(
             f"""
             Level: {level}
-            Primary: {primary}{f"{os.linesep}{', '.join(alternatives) if len(alternatives) > 0 else ''}"}
+            Primary: {primary}{f"{os.linesep}Alternatives: {', '.join(alternatives)}" if len(alternatives) > 0 else ""}
             """
         ),
         color=VOCAB_COLOR
